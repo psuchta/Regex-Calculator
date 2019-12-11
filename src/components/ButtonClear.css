@@ -1,0 +1,15 @@
+.button-clear {
+  height: 4em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #c5c3cd;
+  font-weight: lighter;
+  font-size: 1.4em;
+  color: black;
+  flex: 1;
+  outline: 1px solid #888888;
+}
+.button-clear:hover {
+  filter: brightness(90%);
+}

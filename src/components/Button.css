@@ -1,0 +1,21 @@
+ .button-wraper {
+   height: 4em;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex: 1;
+   background-color: #e0e1e6;
+   color: #888;
+   font-weight: lighter;
+   font-size: 1.4em;
+   outline: 1px solid #888;
+ }
+
+ .button-wraper:hover {
+   filter: brightness(90%);
+ }
+
+ .operator {
+   background-color: #fe9241;
+   color: white;
+ }
